@@ -28,4 +28,4 @@ Ver el [calendario acádemico](http://www.unahur.edu.ar/es/calendario-academico)
 
 ## Programa
 
-Podés descargarlo haciendo clic [aquí](assets/pdf/programa-concurrente.pdf).
+Podés descargarlo haciendo clic [aquí](./assets/pdf/programa-obj2.pdf).
