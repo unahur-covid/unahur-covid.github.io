@@ -3,7 +3,7 @@
 {% assign numero_clase = clase_hash[0] | plus:0 %}
 {% assign clase = clase_hash[1] %}
 
-## [Clase {{numero_clase}}](#clase-{{numero_clase}}){: .titulo-clase}
+## [Semana {{numero_clase}}](#clase-{{numero_clase}}){: .titulo-clase}
 {{clase.descripcion}}
 
 {% if clase.entrega %}
@@ -29,7 +29,7 @@ La fecha límite para la entrega de esta clase es el <strong>{% include fecha-fo
 
 {% if clase.ejercicios %}
 
-### Ejercicios para trabajar en clase
+### Ejercicios obligatorios
 {% assign ejercicios = clase.ejercicios %}
 {% include ejercicios-github.html ejercicios=ejercicios %}
 

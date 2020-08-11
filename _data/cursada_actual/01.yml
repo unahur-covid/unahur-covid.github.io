@@ -1,2 +1,20 @@
 descripcion: |
-  (En construcción...)
+  ### Videos
+
+  * [Presentación de la materia](https://youtu.be/OER5neUJORc).
+  * [Repaso de conceptos Objetos 1](https://youtu.be/OER5neUJORc?t=1772). (Es el mismo video que el anterior, pero este link lleva directo a la parte donde hablamos de eso.)
+
+  ### Actividades
+
+  * Intenten instalarse el IntelliJ Idea, en la sección [software](/software) están los links necesarios para hacerlo.
+
+  ### Para quienes nunca usaron GitHub classroom
+
+  En el ejercicio de abajo, tienen que hacer clic en **Clonar el ejercicio** para que se les cree una copia del repositorio para ustedes. 
+  
+  La primera vez que se clonen un ejercicio les va a pedir que seleccionen su nombre de una lista. De ahí en adelante, trabajan como con cualquier otro repositorio (commit, push, etc.), con la diferencia de que en este caso va a quedar en una organización propia de la materia y no en sus cuentas personales - esto nos facilita a nosotros algunas cuestiones de gestión y automatización de la corrección.
+
+ejercicios:
+  - name: Documentar un programa Wollok
+    repo: obj2-unahur/documentando-wollok
+    classroom: https://classroom.github.com/a/H6vvI8HE
