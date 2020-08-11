@@ -3,7 +3,7 @@
 {% assign numero_clase = clase_hash[0] | plus:0 %}
 {% assign clase = clase_hash[1] %}
 
-## [Semana {{numero_clase}}](#clase-{{numero_clase}}){: .titulo-clase}
+## [Semana {{numero_clase}} - {{ clase.titulo }}](#clase-{{numero_clase}}){: .titulo-clase}
 {{clase.descripcion}}
 
 {% if clase.entrega %}
