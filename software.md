@@ -6,6 +6,12 @@ Como entorno de desarrollo vamos a utilizar el IntelliJ IDEA Community, que pued
 
 Una vez instalado el entorno, deberán instalar el [plugin de kotest](https://plugins.jetbrains.com/plugin/14080-kotest) que servirá para poder integrar la ejecución de tests en el entorno.
 
+## Herramientas para hacer diagramas
+
+**[PlantUML](https://plantuml.com/es/):** permite crear diagramas UML a partir de texto, lo cual la hace particularmente simpática. Los diagramas no son muy bonitos, pero tienen la ventaja de que no hay que estar arrastrando flechitas o redimensionando rectángulos. [Acá](http://www.plantuml.com/plantuml/uml/JSun2a8n40JGFgVOKg_mgozgOQLN69Cr1ZORsUmNGRox4NvXEymyPkuEywLAY8BUwIB8e7SWSeFsMfoFUcEhd90ssubsabluXBM-No8CyOvE_7BMz2yysbKGIzE9JkgSsKQevSboW9RsqyvkRHNdiHu_lW00) un ejemplo de un diagrama de clases. 
+
+**[Whimsical](https://whimsical.com/):** permite hacer prácticamente cualquier cosa, con el costo de que acá sí hay que arrastrar cajitas y flechitas (aunque es bastante digna la interacción). Los diagramas llevan bastante laburo, pero hay que decir que se pueden hacer tremendas obras de arte. 
+
 ## Git
 
 En esta materia utilizamos [Git](https://git-scm.com/) como herramienta para el control de versiones del código que vas a ir produciendo. El manejo que necesitás es básico, y está explicado en la guía rápida que te ofrecemos más abajo. El resto de los recursos pueden serte útiles si querés profundizar en el conocimiento de la herramienta.
