@@ -16,7 +16,9 @@ descripcion: |
   
   La primera vez que se clonen un ejercicio les va a pedir que seleccionen su nombre de una lista. De ahí en adelante, trabajan como con cualquier otro repositorio (commit, push, etc.), con la diferencia de que en este caso va a quedar en una organización propia de la materia y no en sus cuentas personales - esto nos facilita a nosotros algunas cuestiones de gestión y automatización de la corrección.
 
-ejercicios:
+entrega:
+  fecha: "2020-08-17 16:00" 
+  ejercicios:
   - name: Documentar un programa Wollok
     repo: obj2-unahur/documentando-wollok
     classroom: https://classroom.github.com/a/H6vvI8HE

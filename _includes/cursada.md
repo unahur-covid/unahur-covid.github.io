@@ -8,9 +8,9 @@
 
 {% if clase.entrega %}
 
-### Para entregar
+### Ejercicios obligatorios
 {% assign fecha = clase.entrega.fecha %}
-La fecha límite para la entrega de esta clase es el <strong>{% include fecha-formato-humano.md fecha=fecha %}</strong>.
+La fecha límite para la entrega de esta semana es el <strong>{% include fecha-formato-humano.md fecha=fecha %}</strong>.
 
 {% assign ejercicios = clase.entrega.ejercicios %}
 {% if ejercicios %}
@@ -29,7 +29,7 @@ La fecha límite para la entrega de esta clase es el <strong>{% include fecha-fo
 
 {% if clase.ejercicios %}
 
-### Ejercicios obligatorios
+### Actividades complementarias
 {% assign ejercicios = clase.ejercicios %}
 {% include ejercicios-github.html ejercicios=ejercicios %}
 
