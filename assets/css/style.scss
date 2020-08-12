@@ -83,6 +83,11 @@ hr.titulo-clase {
   background-image: none;
 }
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 2rem 6rem;
