@@ -15,12 +15,13 @@ La situación particular que estamos atravesando nos fuerza a que, por esta vez,
 En principio, el contenido de cada clase va a estar pensado para que puedas asimilarlo en el transcurso de una semana. Cada semana publicaremos una nueva clase, que podrá estar compuesta por estos elementos:
 
 * uno o más videos de introducción al tema de la semana,
-* un ejercicio práctico **obligatorio**, que deberá ser entregado por GitHub antes de que comience la siguiente clase,
+* un ejercicio práctico **obligatorio**, que deberá ser entregado por GitHub antes de que comience la siguiente clase. Según el nuevo régimen académico, deberán completar al menos el 70% de estas actividades para poder rendir los parciales, 
 * ejercicios complementarios, que podrás utilizar para seguir practicando algún tema,
-* lecturas complementarias, que servirán para ampliar vocabulario y guiar la búsqueda de más información sobre los temas que trabajemos,
-* una sesión sincrónica para poder evacuar dudas y hacer aclaraciones sobre los temas de la semana.
+* lecturas complementarias, que servirán para ampliar vocabulario y guiar la búsqueda de más información sobre los temas que trabajemos.
 
-Todo el material, incluidas las sesiones sincrónicas, quedarán disponibles en este sitio para ser consultados cuando sea necesario.
+Tendremos, además, una sesión sincrónica todos los **Lunes de 18:00 a 20:00hs**, por medio de nuestro canal de Discord. Es importante que vean todo el material y resuelvan los ejercicios de la semana _antes_ de esa sesión, ya que su objetivo será principalmente evacuar dudas y dar alguna devolución general.
+
+Todo el material quedará disponible en este sitio para ser consultado cuando sea necesario.
 
 ## Docentes
 
