@@ -1,0 +1,17 @@
+titulo: arrancamos con Kotlin
+
+borrador: true
+
+videos:
+  - url:
+    nombre: Cómo descargar un proyecto Kotlin y hacerlo andar en el IntelliJ
+  - url:
+    nombre: Migrar ejercicio de Wollok a Kotlin
+    descripcion: Sesión de programación en vivo, mostrando cómo convertir un ejercicio de Wollok a Kotlin.
+
+entrega:
+  fecha: "2020-08-23 23:59" 
+  ejercicios:
+  - name: Vendedores
+    repo: obj2-unahur/vendedores-kotlin
+    classroom: https://classroom.github.com/a/UNLQp4r5
