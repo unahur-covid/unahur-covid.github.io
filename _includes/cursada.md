@@ -6,6 +6,15 @@
 ## [Semana {{numero_clase}} - {{ clase.titulo }}](#clase-{{numero_clase}}){: .titulo-clase}
 {{clase.descripcion}}
 
+{% if clase.videos %}
+
+### Videos
+{% for video in clase.videos %}
+* [{{video.nombre}}]({{video.url}}). {{video.descripcion}}
+{% endfor %}
+
+{% endif %}
+
 {% if clase.entrega %}
 
 ### Ejercicios obligatorios
