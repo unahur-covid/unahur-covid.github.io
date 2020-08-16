@@ -3,7 +3,7 @@ titulo: arrancamos con Kotlin
 borrador: true
 
 videos:
-  - url:
+  - url: https://www.youtube.com/watch?v=9GmCfxLGSK4&feature=youtu.be
     nombre: Cómo descargar un proyecto Kotlin y hacerlo andar en el IntelliJ
   - url:
     nombre: Migrar ejercicio de Wollok a Kotlin
