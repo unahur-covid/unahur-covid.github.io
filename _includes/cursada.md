@@ -6,6 +6,12 @@
 ## [Semana {{numero_clase}} - {{ clase.titulo }}](#clase-{{numero_clase}}){: .titulo-clase}
 {{clase.descripcion}}
 
+{% if clase.borrador %}
+
+### EN CONSTRUCCIÓN. Puede que no ande nada de lo que está abajo.
+
+{% endif %}
+
 {% if clase.videos %}
 
 ### Videos
