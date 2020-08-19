@@ -1,6 +1,8 @@
 titulo: arrancamos con Kotlin
 
 videos:
+  - url: https://youtu.be/sSIuiYQVjcw
+    nombre: Correcciones del ejercicio de la semana 1
   - url: https://www.youtube.com/watch?v=9GmCfxLGSK4
     nombre: Cómo descargar un proyecto Kotlin y hacerlo andar en el IntelliJ
   - url: https://www.youtube.com/watch?v=-rBzBpLGcMo
