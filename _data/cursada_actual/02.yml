@@ -13,7 +13,7 @@ videos:
     descripcion: Sesión de programación en vivo, mostrando cómo convertir un ejercicio de Wollok a Kotlin.
 
 entrega:
-  fecha: "2020-08-23 23:59" 
+  fecha: "2020-08-26 23:59" 
   ejercicios:
   - name: Vendedores
     repo: obj2-unahur/vendedores-kotlin
