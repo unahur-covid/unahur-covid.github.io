@@ -25,7 +25,7 @@ Todo el material quedará disponible en este sitio para ser consultado cuando se
 
 ## Docentes
 
-Los profes somos Federico Aloi y Román García. (Próximamente, un pequeño video de presentación).
+Los profes somos Federico Aloi y Román García. Nos acompaña también Pablo Gerez como alumno asistente.
 
 ## Canales de comunicación
 
