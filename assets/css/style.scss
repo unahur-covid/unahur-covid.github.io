@@ -1,6 +1,7 @@
 ---
 ---
 
+$error-color: #d32929;
 $header-bg-color: #29abd3;
 $section-headings-color: darken($header-bg-color, 5%);
 
@@ -8,6 +9,10 @@ $section-headings-color: darken($header-bg-color, 5%);
 
 .titulo-clase {
   color: $section-headings-color;
+}
+
+.clase-construccion {
+  color: $error-color !important;
 }
 
 .project-logo {

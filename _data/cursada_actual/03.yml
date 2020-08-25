@@ -1,0 +1,7 @@
+titulo: "TDD: una técnica ¿de testing?"
+
+borrador: true
+
+videos:
+  - url: https://youtu.be/U2SDLI_VEEg
+    nombre: Introducción veloz a TDD (o Diseño guiado por pruebas)

@@ -8,7 +8,9 @@
 
 {% if clase.borrador %}
 
-### EN CONSTRUCCIÓN. Puede que no ande nada de lo que está abajo.
+<h3 class="clase-construccion">Clase en construcción, avance sobre su propio riesgo.</h3>
+
+![En construcción](../assets/images/trabajando.jpg)
 
 {% endif %}
 
