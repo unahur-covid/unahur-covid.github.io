@@ -8,3 +8,10 @@ videos:
   - url: https://youtu.be/tgJnN4f04ug
     nombre: TDD en Kotlin usando el ejercicio "Servidor Web"
     descripcion: Quedó un poco largo, pero es importante que lo vean para comprender cómo es la técnica (que van a tener que aplicar en la entrega de esta semana).
+
+entrega:
+  fecha: "2020-09-02 23:59" 
+  ejercicios:
+  - name: Servidor web (para completar con TDD)
+    repo: obj2-unahur/servidor-web
+    classroom: https://classroom.github.com/a/g8mKR6Me
