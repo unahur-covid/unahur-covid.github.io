@@ -5,3 +5,6 @@ borrador: true
 videos:
   - url: https://youtu.be/U2SDLI_VEEg
     nombre: Introducción veloz a TDD (o Diseño guiado por pruebas)
+  - url: https://youtu.be/tgJnN4f04ug
+    nombre: TDD en Kotlin usando el ejercicio "Servidor Web"
+    descripcion: Quedó un poco largo, pero es importante que lo vean para comprender cómo es la técnica (que van a tener que aplicar en la entrega de esta semana).
