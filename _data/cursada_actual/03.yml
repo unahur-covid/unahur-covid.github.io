@@ -1,6 +1,8 @@
 titulo: "TDD: una técnica ¿de testing?"
 
 videos:
+  - url: https://www.youtube.com/watch?v=E9X2Bagn2Lc&feature=youtu.be
+    nombre: Correcciones del ejercicio de la semana 2
   - url: https://youtu.be/FuGpj3nRS28
     nombre: Tipos anulables en Kotlin
     descripcion: Lo que tenés que saber para manejar los tipos con signo de pregunta (como `Int?` o `Vendedor?`).
