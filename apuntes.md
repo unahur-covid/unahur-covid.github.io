@@ -4,7 +4,7 @@
 
 **:argentina: [De Wollok a Kotlin](https://github.com/obj2-unahur/apuntes/blob/master/kotlin-guia-rapida.md)**: partiendo de lo que (supuestamente) ya sabían de Wollok, les traemos un breve apunte de referencia con lo necesario para arrancar con Kotlin.
 
-**:argentina: [LocalDateTime en 1 minuto](https://github.com/obj2-unahur/apuntes/blob/master/kotlin-guia-rapida.md)**: brevísima introducción para que puedan realizar la entrega de la semana 3.
+**:argentina: [LocalDateTime en 1 minuto](https://github.com/obj2-unahur/apuntes/blob/master/local-datetime-guia-rapidisima.md)**: brevísima introducción para que puedan realizar la entrega de la semana 3.
 
 **:us: [Kotlin cheatsheet](https://devhints.io/kotlin)**: guía rápida de sintaxis de Kotlin, un popurrí de las cosas que se pueden hacer.
 
