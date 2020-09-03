@@ -1,0 +1,13 @@
+titulo: "Seguimos con el Servidor Web"
+
+descripcion: |
+  Como el ejercicio del Servidor Web costó bastante, extendimos una semana más la fecha de entrega. En esta clase sumamos algunos recursos para que puedan terminar de comprender el enunciado.
+
+  No se olviden que en la sección [Apuntes](/apuntes) les dejamos una guía rapidísima de cómo interactuar con las fechas en Kotlin.
+
+videos:
+  - url: https://youtu.be/P5UCxXTBjFk
+    nombre: Aclaraciones ejercicio Servidor Web
+  - url: https://youtu.be/Kz1MmOLRyWo
+    nombre: "Herencia en Kotlin: atributos, métodos y algunos trucos más"
+    descripcion: "A partir de un ejemplo sencillo, explicamos varias de las cosas que tiene Kotlin: constructores, `abstract`, `open`, `lateinit`, etc."
