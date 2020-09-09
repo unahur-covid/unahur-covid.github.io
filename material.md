@@ -1,6 +1,8 @@
-# Apuntes
+# Material
 
 ## Kotlin
+
+**[Kotlin Base](https://github.com/obj2-unahur/kotlin-base)**: Acá te dejamos una plantilla de un proyecto en Kotlin, por si querés chusmear y armar lo que quieras.
 
 **:argentina: [De Wollok a Kotlin](https://github.com/obj2-unahur/apuntes/blob/master/kotlin-guia-rapida.md)**: partiendo de lo que (supuestamente) ya sabían de Wollok, les traemos un breve apunte de referencia con lo necesario para arrancar con Kotlin.
 
