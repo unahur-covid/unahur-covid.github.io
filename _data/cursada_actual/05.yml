@@ -1,0 +1,22 @@
+titulo: "Hablemos de diseño"
+
+borrador: true
+
+descripcion: |
+  Esta semana viene bastante más teórica y lectora de lo que venía siendo, pero nos parece importante ir sumando vocabulario para analizar soluciones. Las lecturas que proponemos se pueden leer "de un tirón", pero conviene también tenerlas a mano para volver a consultarlas a modo de "hoja de trucos" mientras programan.
+
+lecturas:
+  - url: https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing
+    nombre: Introducción a Design Patterns
+    descripcion: Qué son y qué no son los patrones de diseño. Concentra lo que vinimos diciendo desde el comienzo de la materia, con algunas reflexiones interesantes y referencias para ampliar el panorama.
+  - url: https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit?usp=sharing
+    nombre: Cualidades de diseño
+    descripcion: Algunos criterios para analizar diseños, que son los que vamos a utilizar de ahora en más en las correcciones. En particular, para esta entrega van a tener que trabajar intensamente con los que están en la sección [Cualidades que se pueden estudiar con cierta independencia tecnológica](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit#heading=h.5ntffpcf14xd).
+
+videos:
+  - url: https://youtu.be/oQlHa0ZB3-A
+    nombre: Clase en vivo del Lunes 07/09
+    descripcion: "Un poco de todo: errores comunes de la entrega 2 (Vendedores), consultas de la entrega 3 (Servidor web), divagues sobre cómo diseñar y catarsis."
+  - url: https://www.youtube.com/watch?v=VqQqr3Zik1Y
+    nombre: Patrón Observer en 5 minutos
+    descripcion: "Cortito y al pie, un video que explica el patrón Observer :eyes:, que es básicamente lo que hicieron con los analizadores en el servidor web."
