@@ -10,6 +10,13 @@
 
 **:us: [Documentación de kotest](https://github.com/kotest/kotest)**: `kotest` es el framework recomendado para testear los ejercicios de la materia. Dentro de la documentación, puede resultar útil tener a mano la [lista de matchers](https://github.com/kotest/kotest/blob/master/doc/matchers.md), que son los equivalentes a los métodos del objeto `assert` de Wollok. De los múltiples estilos que la herramienta ofrece, en los ejemplos de la materia siempre usaremos el [describe spec](https://github.com/kotest/kotest/blob/master/doc/styles.md#describe-spec).
 
+## Apuntes de diseño orientado a objetos
+
+**:argentina:[Introducción a Design Patterns](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing)**: qué son y qué no son los patrones de diseño. Concentra lo que vinimos diciendo desde el comienzo de la materia, con algunas reflexiones interesantes y referencias para ampliar el panorama.
+
+**:argentina:[Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit?usp=sharing)**: algunos criterios para analizar diseños, que vamos a utilizar como criterio para corregir los trabajos de esta materia. Útil para tener a mano y volver a leerlo de vez en cuando.
+
+**:argentina:[El catálogo de patrones de diseño](https://refactoring.guru/es/design-patterns/catalog)**: un sitio web simpático que explica los famosos patrones de diseño con algunos dibujitos y ejemplos de código en distintos lenguajes.
 
 ## Repositorios de ejemplo
 
