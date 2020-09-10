@@ -3,7 +3,7 @@
 {% assign numero_clase = clase_hash[0] | plus:0 %}
 {% assign clase = clase_hash[1] %}
 
-## [Semana {{numero_clase}} - {{ clase.titulo }}](#clase-{{numero_clase}}){: .titulo-clase}
+## [S{{numero_clase}} - **{{ clase.titulo }}**](#clase-{{numero_clase}}){: .titulo-clase}
 {{clase.descripcion}}
 
 {% if clase.borrador %}
@@ -19,6 +19,15 @@
 ### Videos
 {% for video in clase.videos %}
 * [{{video.nombre}}]({{video.url}}). {{video.descripcion}}
+{% endfor %}
+
+{% endif %}
+
+{% if clase.lecturas %}
+
+### Lecturas obligatorias
+{% for lectura in clase.lecturas %}
+* [{{lectura.nombre}}]({{lectura.url}}). {{lectura.descripcion}}
 {% endfor %}
 
 {% endif %}
