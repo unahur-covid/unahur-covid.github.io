@@ -5,6 +5,8 @@ borrador: true
 descripcion: |
   Esta semana viene bastante más teórica y lectora de lo que venía siendo, pero nos parece importante ir sumando vocabulario para analizar soluciones. Las lecturas que proponemos se pueden leer "de un tirón", pero conviene también tenerlas a mano para volver a consultarlas a modo de "hoja de trucos" mientras programan.
 
+  Además del tema de la semana, incluimos algunos materiales sobre el [patrón Observer](https://refactoring.guru/es/design-patterns/observer), que sin saber utilizaron en la solución del ejercicio del Servidor Web.
+
 lecturas:
   - url: https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing
     nombre: Introducción a Design Patterns
@@ -19,4 +21,7 @@ videos:
     descripcion: "Un poco de todo: errores comunes de la entrega 2 (Vendedores), consultas de la entrega 3 (Servidor web), divagues sobre cómo diseñar y catarsis."
   - url: https://www.youtube.com/watch?v=VqQqr3Zik1Y
     nombre: Patrón Observer en 5 minutos
-    descripcion: "Cortito y al pie, un video que explica el patrón Observer :eyes:, que es básicamente lo que hicieron con los analizadores en el servidor web."
+    descripcion: "Cortito y al pie, un video que explica el patrón Observer :eyes:."
+  - url: https://www.youtube.com/watch?v=wl69tqsy-3s
+    nombre: Implementando el patrón Observer
+    descripcion: "Otro video, mucho más completo (y mucho más largo), que cuenta distintos ejemplos del patrón Observer. A partir de un requerimiento muy parecido al del ejercicio del Servidor Web, va contando alternativas de cómo resolverlo. Ojo: los ejemplos de código no están en Kotlin, sino en [Xtend](https://www.eclipse.org/xtend/)... confiamos en que no van a tener problemas en comprenderlos. :wink:"
