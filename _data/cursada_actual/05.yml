@@ -25,7 +25,7 @@ videos:
     descripcion: "Otro video, mucho más completo (y mucho más largo), que cuenta distintos ejemplos del patrón Observer. A partir de un requerimiento muy parecido al del ejercicio del Servidor Web, va contando alternativas de cómo resolverlo. Ojo: los ejemplos de código no están en Kotlin, sino en [Xtend](https://www.eclipse.org/xtend/)... confiamos en que no van a tener problemas en comprenderlos. :wink:"
 
 entrega:
-  fecha: "2020-16-09 23:59" 
+  fecha: "2020-09-16 23:59" 
   ejercicios:
   - name: Buscando defectos en el ejercicio "Semillas al viento"
     repo: obj2-unahur/semillas-al-viento-defectos
