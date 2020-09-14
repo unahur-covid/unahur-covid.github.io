@@ -1,0 +1,8 @@
+titulo: "¿¿??"
+
+borrador: true
+
+videos:
+  - url: https://youtu.be/nQAuXKEWKvk
+    nombre: Clase en vivo del Lunes 14/09
+    descripcion: "Un poco de todo: errores comunes de la entrega 3 (Servidor Web), consultas de la entrega 4 (Buscando defectos), algo sobre mapas y una breve descripción del patrón Observer."
