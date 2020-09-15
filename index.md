@@ -19,7 +19,7 @@ En principio, el contenido de cada clase va a estar pensado para que puedas asim
 * ejercicios complementarios, que podrás utilizar para seguir practicando algún tema,
 * lecturas complementarias, que servirán para ampliar vocabulario y guiar la búsqueda de más información sobre los temas que trabajemos.
 
-Tendremos, además, una sesión sincrónica todos los **Lunes de 18:00 a 20:00hs**, por medio de nuestro canal de Discord. Es importante que vean todo el material y resuelvan los ejercicios de la semana _antes_ de esa sesión, ya que su objetivo será principalmente evacuar dudas y dar alguna devolución general.
+Tendremos, además, una sesión sincrónica todos los **Lunes de 18:00 a 20:00hs**, por medio de Google Meet. Es importante que vean todo el material y resuelvan los ejercicios de la semana _antes_ de esa sesión, ya que su objetivo será principalmente evacuar dudas y dar alguna devolución general.
 
 Todo el material quedará disponible en este sitio para ser consultado cuando sea necesario.
 
