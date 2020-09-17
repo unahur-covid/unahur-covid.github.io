@@ -11,14 +11,12 @@
       <p markdown="span">
         <i class="fab fa-github fa-fw"></i> [Ver enunciado](https://github.com/{{ej.repo}})
       </p>
-      {% if ej.apuntes %}
+      {% if ej.comentarios %}
       <p>
-        <i class="fas fa-chalkboard-teacher fa-fw"></i> Apuntes
-        <ul>
-          {% for ap in ej.apuntes %}
-          <li markdown="span">[{{ap.name}}](https://github.com/{{ap.repo}})</li>
-          {% endfor %}
-        </ul>
+        <i class="fas fa-chalkboard-teacher fa-fw"></i> <b>Comentarios</b>
+        <p markdown="span">
+          {{ ej.comentarios }}
+        </p>
       </p>
       {% endif %}
     </div>
