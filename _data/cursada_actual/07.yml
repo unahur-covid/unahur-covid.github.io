@@ -10,7 +10,7 @@ videos:
     nombre: "¿Qué son y para qué sirven las cualidades de diseño de software?"
     descripcion: "Clase en vivo del 21/09, en la que hicimos una breve descripción de las cualidades de diseño del apunte."
   - url: https://youtu.be/5v0P4A5vMBI
-    nombre: "¿Cómo implementar el patrón Singleton en Kotlin"
+    nombre: "¿Cómo implementar el patrón Singleton en Kotlin?"
     descripcion: "Un nombre rimbombante para algo que ya sabían hacer desde Objetos 1: crear un objeto sin clase. :stuck_out_tongue:"
   - url: 
     nombre: "(EN PROGRESO) ¿Qué son los companion objects de Kotlin?"
