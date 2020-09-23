@@ -10,10 +10,7 @@ videos:
   - url: https://youtu.be/5v0P4A5vMBI
     nombre: "¿Cómo implementar el patrón Singleton en Kotlin?"
     descripcion: "Un nombre rimbombante para algo que ya sabían hacer desde Objetos 1: crear un objeto sin clase. :stuck_out_tongue:"
-  - url: 
-    nombre: "(EN PROGRESO) ¿Qué son los companion objects de Kotlin?"
-    descripcion: "Una alternativa poderosa a los métodos de clase de Java."
-
+  
 entrega:
   fecha: "2020-10-04 23:59" 
   ejercicios:
