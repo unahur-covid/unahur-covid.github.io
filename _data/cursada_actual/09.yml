@@ -8,6 +8,11 @@ videos:
     nombre: "Clase en vivo del 05/10"
     descripcion: |
       Cuándo usar objetos o clases, estado de los objetos en los tests, patrón **Strategy**, composición y tips para mirar un pull request.
+  - url: https://www.youtube.com/watch?v=VQ8V0ym2JSo
+    nombre: Breve explicación del patrón Strategy
+    descripcion: |
+      Un español barbudo que, a mi juicio, explica de forma muy clara los patrones de diseño. Utiliza porciones de código en Typescript (primo tipado de Javascript), que no deberían resultarles tan difícil de leer.
+  
 
 entrega:
   fecha: "2020-10-16 23:59" 
