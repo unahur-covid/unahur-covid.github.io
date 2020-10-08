@@ -15,7 +15,7 @@ videos:
   
 
 entrega:
-  fecha: "2020-10-16 23:59" 
+  fecha: "2020-10-09 23:59" 
   ejercicios:
   - name: Ventas aéreas - revisión de pares
     repo: obj2-unahur-2020s2/ventas-aereas-revision
