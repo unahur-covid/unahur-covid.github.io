@@ -1,0 +1,17 @@
+titulo: Primer parcial
+
+descripcion: |
+  Llegó el primer parcial, el cual va a tener exactamente la misma modalidad de todas las entregas que hicimos hasta ahora. Se mantienen los grupos de la entrega anterior, si alguien quiere cambiar nos escribe por Discord.
+
+videos:
+  - url: /assets/images/trabajando.jpg
+    nombre: Resolución del ejercicio "Ventas Aéreas"
+    descripcion: |
+      (PRÓXIMAMENTE) Pablo Gerez nos muestra una posible solución al ejercicio de la semana anterior.
+  
+entrega:
+  fecha: "2020-10-09 23:59"
+  ejercicios:
+  - name: Minions - primer parcial
+    repo: obj2-unahur/minions
+    classroom: https://classroom.github.com/g/1T3SDxhV
