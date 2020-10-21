@@ -9,7 +9,7 @@ videos:
     descripcion: Posible solución al ejercicio de la semana anterior.
   
 entrega:
-  fecha: "2020-10-23 23:59"
+  fecha: "2020-10-25 23:59"
   ejercicios:
   - name: Minions - primer parcial
     repo: obj2-unahur/minions
