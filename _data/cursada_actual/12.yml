@@ -1,0 +1,16 @@
+titulo: El día después
+
+borrador: true
+
+descripcion: |
+  Repasamos algunos patrones que quedaron en el tintero: _Template method_ y _Composite_, con videos y un ejercicio para reforzar.
+
+videos:
+  - url: https://youtu.be/kA_WTAXDXJU
+    nombre: "Clase en vivo del 26/10"
+    descripcion: |
+      Comentarios sobre el ejercicio de parcial "Minions", principio _Tell, don't ask_ e intro a _double dispatch_.
+  - url: https://www.youtube.com/watch?v=19ZKRU9eubc
+    nombre: "Patrón TEMPLATE METHOD en Kotlin: delegando partes del algoritmo en las subclases"
+    descripcion: |
+      Una resolución posible del peso máximo de "Ventas Aéreas", usando template method.
