@@ -18,3 +18,10 @@ videos:
     nombre: "Interface VERSUS clase abstracta en Kotlin"
     descripcion: |
       Diferencias, similitudes y cuándo conviene usar cada una.
+
+entrega:
+  fecha: "2020-11-04 23:59"
+  ejercicios:
+  - name: Seguros (double dispatch)
+    repo: obj2-unahur/seguros
+    classroom: https://classroom.github.com/g/sRRsfg65
