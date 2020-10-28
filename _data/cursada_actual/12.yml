@@ -14,3 +14,7 @@ videos:
     nombre: "Patrón TEMPLATE METHOD en Kotlin: delegando partes del algoritmo en las subclases"
     descripcion: |
       Una resolución posible del peso máximo de "Ventas Aéreas", usando template method.
+  - url: https://www.youtube.com/watch?v=6wlfbWTNsXE
+    nombre: "Interface VERSUS clase abstracta en Kotlin"
+    descripcion: |
+      Diferencias, similitudes y cuándo conviene usar cada una.
