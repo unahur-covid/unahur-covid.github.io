@@ -16,6 +16,14 @@ videos:
     nombre: "Interface VERSUS clase abstracta en Kotlin"
     descripcion: |
       Diferencias, similitudes y cuándo conviene usar cada una.
+  - url: https://www.youtube.com/watch?v=lkno-6GJ-ro
+    nombre: "Modelando comportamiento con ¿DOUBLE DISPATCH? en Kotlin"
+    descripcion: |
+      Una resolución posible del peso máximo de "Ventas Aéreas", usando template method.
+  - url: https://www.youtube.com/watch?v=9I4EwAykVaY
+    nombre: "Patrón COMPOSITE en Kotlin: respetando el polimorfismo"
+    descripcion: |
+      Resolución del rol Capataz del ejercicio "Minions".
 
 entrega:
   fecha: "2020-11-04 23:59"
