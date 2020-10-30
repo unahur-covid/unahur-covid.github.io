@@ -19,7 +19,7 @@ videos:
   - url: https://www.youtube.com/watch?v=lkno-6GJ-ro
     nombre: "Modelando comportamiento con ¿DOUBLE DISPATCH? en Kotlin"
     descripcion: |
-      Una resolución posible del peso máximo de "Ventas Aéreas", usando template method.
+      Cómo resolver las tareas de los Minions sin tener que hacer un millón de `if`.
   - url: https://www.youtube.com/watch?v=9I4EwAykVaY
     nombre: "Patrón COMPOSITE en Kotlin: respetando el polimorfismo"
     descripcion: |
