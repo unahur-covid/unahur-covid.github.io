@@ -1,0 +1,14 @@
+titulo: Conectando con el "mundo real"
+
+descripcion: |
+  En esta semana comenzaremos a trabajar con un ejercicio que se convertirá, poco a poco, en el segundo parcial. El objetivo es explorar un poco cómo podría diseñarse un sistema "de la vida real", donde vamos a interactuar con servicios externos que no controlamos.
+
+  Vamos a enfocarnos en dos cosas: cómo hacer que los objetos del servicio externo se _adapten_ a nuestro sistema y cómo escribir tests que no dependan del sistema externo.
+
+entrega:
+  fecha: "2020-11-11 23:59"
+  ejercicios:
+  - name: Países (impostores)
+    repo: obj2-unahur/impostores-paises
+    classroom: https://classroom.github.com/g/WQSBdPCH
+    comentarios: Deberían resolver, por lo menos, las primeras 2 etapas.
