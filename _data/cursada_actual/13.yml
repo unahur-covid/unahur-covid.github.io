@@ -5,6 +5,12 @@ descripcion: |
 
   Vamos a enfocarnos en dos cosas: cómo hacer que los objetos del servicio externo se _adapten_ a nuestro sistema y cómo escribir tests que no dependan del sistema externo.
 
+videos:
+  - url: https://youtu.be/T_Bg4lwTlFA
+    nombre: "Inyección de dependencias e impostores: ¿cómo testear servicios externos en Kotlin con mockk?"
+    descripcion: |
+      Lo que explicamos en este video lo van a necesitar para resolver la etapa 3 del ejercicio.  
+
 entrega:
   fecha: "2020-11-11 23:59"
   ejercicios:
