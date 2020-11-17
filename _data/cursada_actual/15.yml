@@ -1,7 +1,5 @@
 titulo: "Más mundo real: interactuando con personas"
 
-borrador: true
-
 descripcion: |
   Para esta ¿última? entrega, le vamos a agregar al ejercicio de países una interfaz por consola.
 
@@ -14,6 +12,16 @@ descripcion: |
   git pull enunciado master
   git push origin master
   ```
+
+videos:
+  - url: https://www.youtube.com/watch?v=jRouks4FkeY
+    nombre: "Clase en vivo del 16/11"
+    descripcion: |
+      Más aclaraciones sobre el ejercicio "Países impostores", opciones para hacer el adaptador y diferencia entre código productivo y de tests.
+  - url: /assets/images/trabajando.jpg
+    nombre: "(EN CONSTRUCCIÓN) Programando y testeando una aplicación de CONSOLA en Kotlin"
+    descripcion: |
+      Todo lo que necesitan saber para resolver esta entrega.
 
 
 entrega:
