@@ -1,0 +1,24 @@
+titulo: "Más mundo real: interactuando con personas"
+
+borrador: true
+
+descripcion: |
+  Para esta ¿última? entrega, le vamos a agregar al ejercicio de países una interfaz por consola.
+
+  Como vamos a seguir trabajando sobre el mismo repo, van a tener que bajarse los cambios que hicimos en el enunciado y los archivos que agregamos para esta etapa. Excepto que hayan modificado el `README.md`, esta operación no debería darles ningún conflicto.
+
+  Solamente **una persona por equipo** debería ejecutar estos comandos sobre el repo que ya tienen, previamente commiteando todo lo que tengan pendiente:
+
+  ```
+  git remote add enunciado https://github.com/obj2-unahur/impostores-paises.git
+  git pull enunciado master
+  git push origin master
+  ```
+
+
+entrega:
+  fecha: "2020-11-23 23:59"
+  ejercicios:
+  - name: Países (impostores)
+    repo: obj2-unahur/impostores-paises
+    comentarios: No tienen que volver a clonarse el repo, solamente hagan lo que dice en la descripción de esta clase.
