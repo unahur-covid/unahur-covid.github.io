@@ -1,10 +1,8 @@
 # Software
 
-## IntelliJ IDEA
+## Visual Studio Code
 
-Como entorno de desarrollo vamos a utilizar el IntelliJ IDEA Community, que pueden descargarse [desde acá](https://www.jetbrains.com/idea/download).
-
-Una vez instalado el entorno, deberán instalar el [plugin de kotest](https://plugins.jetbrains.com/plugin/14080-kotest) que servirá para poder integrar la ejecución de tests en el entorno.
+Como entorno de desarrollo vamos a utilizar el Visual Studio Code, que pueden descargarse [desde acá](https://code.visualstudio.com/).
 
 ## Herramientas para hacer diagramas
 

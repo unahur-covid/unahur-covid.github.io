@@ -4,28 +4,21 @@ layout: landing
 
 ¡Bienvenido/a!
 
-En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Programación con Objetos 2**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
+En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **{{ site.title }}**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
 Si es la primera vez que entrás acá, te recomendamos que leas el [contrato pedagógico](/contrato-pedagogico), donde explicamos todo lo que tenés que saber para aprobar esta materia. Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cursada).
 
 ## Modalidad de cursada
 
-La situación particular que estamos atravesando nos fuerza a que, por esta vez, la modalidad de cursada sea 100% virtual. En este marco, lo que normalmente llamaríamos "una clase" se va a componer de varios elementos, y va a ser tu responsabilidad familiarizarte y trabajar con cada uno de ellos.
+Durante esta cursada especial, tenemos la tarea de realizar una aplicación para colaborar en el cumplimiento del protocolo que la Universidad estableció en el marco de la pandemia del COVID-19. En este sitio vamos a ir incluyendo distintos recursos que pueden ser de utilidad para el desarrollo de esa aplicación.
 
-En principio, el contenido de cada clase va a estar pensado para que puedas asimilarlo en el transcurso de una semana. Cada semana publicaremos una nueva clase, que podrá estar compuesta por estos elementos:
-
-* uno o más videos de introducción al tema de la semana,
-* un ejercicio práctico **obligatorio**, que deberá ser entregado por GitHub antes de que comience la siguiente clase. Según el nuevo régimen académico, deberán completar al menos el 70% de estas actividades para poder rendir los parciales, 
-* ejercicios complementarios, que podrás utilizar para seguir practicando algún tema,
-* lecturas complementarias, que servirán para ampliar vocabulario y guiar la búsqueda de más información sobre los temas que trabajemos.
-
-Tendremos, además, una sesión sincrónica todos los **Lunes de 18:00 a 20:00hs**, por medio de Google Meet. Es importante que vean todo el material y resuelvan los ejercicios de la semana _antes_ de esa sesión, ya que su objetivo será principalmente evacuar dudas y dar alguna devolución general.
+Trabajaremos siguiendo los lineamientos de las metodologías ágiles, con _sprints_ de dos semanas. Para ello tendremos una sesión sincrónica quincenal de planificación los **Miércoles de 10:30 a 11:30hs**, por medio de Google Meet.
 
 Todo el material quedará disponible en este sitio para ser consultado cuando sea necesario.
 
 ## Docentes
 
-Los profes somos Federico Aloi y Román García. Nos acompaña también Pablo Gerez como alumno asistente.
+El profe es Federico Aloi. Nos acompaña también Fernando Puriccelli en las planificaciones e interacción con la universidad.
 
 ## Canales de comunicación
 
